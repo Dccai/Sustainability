@@ -1,7 +1,24 @@
 .App {
   text-align: center;
 }
+.link{
+  text-decoration: none;
+  color:#61dafb;
 
+}
+.linkBar{
+  width:30%;
+  height: 100%;
+  margin-left: auto;
+  margin-right: auto;
+  display: inline-block;
+}
+#headBar{
+  text-align: center;
+  width:100%;
+  height:10%;
+  background-color: #282c34;
+}
 .App-logo {
   height: 40vmin;
   pointer-events: none;
